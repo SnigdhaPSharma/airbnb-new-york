@@ -1,4 +1,5 @@
-Airbnb New York
+# Airbnb New York Data Analysis Project
+Analysis of the Airbnb rentals in New York Neighbourhoods
 
 
 
