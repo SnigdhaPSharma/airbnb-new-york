@@ -23,6 +23,10 @@ The analysis revealed several insights about customer behavior, movie popularity
 Based on these insights, several recommendations were made to improve business operations:
 
 ## Files
+Project Overview: Contains the business requirement document.  
+Analysis & Result: Contains the anaysis and results of the project.  
+Data: Contains the Airbnb data in csv format.  
+Scripts: Contain the jupyter notebooks created for the analysis.  
 README.md: This file.  
 
 ## Installation
