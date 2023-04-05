@@ -6,7 +6,7 @@ Analysis of the Airbnb rentals in New York Neighbourhoods using Python libraries
 Inside Airbnb is a mission driven project that provides data and advocacy about Airbnb's impact on residential communities. The project focuses on analysing the publicly available Airbnb data of New York. Python libraries have been used to draw insights and perform exploratory analysis, linear regression, cluster analysis and spatial analysis of the dataset.
 
 ## Data
-Quarterly data for the last year for New York available for free download on Inside Airbnb http://insideairbnb.com/get-the-data.
+Yearly data for the last year for New York available for free download on Inside Airbnb http://insideairbnb.com/get-the-data.
 
 ## Key Questions and Objectives
 •	What can be learnt about different hosts and areas?  
@@ -14,13 +14,6 @@ Quarterly data for the last year for New York available for free download on Ins
 •	Is there a correlation between busiest hosts and other variables like reviews, availability, price and location?  
 •	Is there any noticeable difference of traffic among different areas and what could be the reason for it?  
 
-
-## Results
-The analysis revealed several insights about customer behavior, movie popularity, and rental trends:
- 
-
-
-Based on these insights, several recommendations were made to improve business operations:
 
 ## Files
 Project Overview: Contains the business requirement document.  
@@ -33,4 +26,4 @@ README.md: This file.
 To run the analysis you will need to install Python, Jupyter, Numpy and Pandas.
 
 ## Tableau Visualizations Link
-
+https://public.tableau.com/app/profile/snigdha.sharma1523/viz/AirbnbFinalProject_16805443520770/AirbnbFinalProject?publish=yes
